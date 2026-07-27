@@ -136,21 +136,6 @@ End-to-end ML infrastructure on AWS.
 
 ---
 
-## Career
-
-- **TecAlliance** - Machine Learning Engineer (Oct 2022 – Present), Software Engineer (Nov 2021 – Oct 2022)
-- **Netwealth** - Full-Stack Developer (Mar 2020 – Nov 2021).
-- **Kärcher** - Software Engineer Intern/Junior (Aug 2019 – Mar 2020).
-
----
-
-## Certifications
-
-- Professional Scrum Master I (PSM I)
-- Professional Scrum Master II (PSM II)
-
----
-
 ## Connect
 
 📧 **thangnguyen31081998@gmail.com**
